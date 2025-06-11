@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed Iqbal</h1>
 <h3 align="center">A passionate AI-Engineer From Pakistan</h3>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmediqbal12/ahmediqbal12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmediqbal12/ahmediqbal12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmediqbal12/ahmediqbal12/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmediqbal12&label=Profile%20views&color=0e75b6&style=flat" alt="ahmediqbal12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmediqbal12" alt="ahmediqbal12" /></a> </p>
