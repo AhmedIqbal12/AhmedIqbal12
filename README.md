@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-<h3 align="center"> I'm a passionate AI Engineer and Software Developer from Pakistan 🇵🇰, dedicated to using Artificial Intelligence to solve real-world problems in health, agriculture, and safety.
+<h4 align="center"> I'm a passionate AI Engineer and Software Developer from Pakistan 🇵🇰, dedicated to using Artificial Intelligence to solve real-world problems in health, agriculture, and safety.
 
 🎓 Currently completing my Bachelor's in AI  
 🧠 Final Year Project: AI Health Advisor for disease prediction  
@@ -9,8 +9,8 @@
 💡 Mission: To use AI for good and make technology accessible & meaningful for everyone
 
 Let’s connect and build something that matters!
-</h3>
-###
+</h4>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
@@ -49,6 +49,8 @@ Let’s connect and build something that matters!
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
+
+
 
 ###
 
