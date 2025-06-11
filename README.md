@@ -1,4 +1,16 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="## 👋 About Me
+
+I'm a passionate AI Engineer and Software Developer from Pakistan 🇵🇰, dedicated to using Artificial Intelligence to solve real-world problems in health, agriculture, and safety.
+
+🎓 Currently completing my Bachelor's in AI  
+🧠 Final Year Project: AI Health Advisor for disease prediction  
+🏅 Nominated for Prime Minister's Award for a life-saving COVID-19 data science system  
+🌾 Built expert systems to help farmers in Urdu using ML & Computer Vision  
+📈 Developed stock market expert advisor using technical, sentiment & order flow analysis  
+💡 Mission: To use AI for good and make technology accessible & meaningful for everyone
+
+Let’s connect and build something that matters!
+</h1>
 
 ###
 
