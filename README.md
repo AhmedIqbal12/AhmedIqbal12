@@ -175,7 +175,7 @@ class AIEngineer:
         
     def current_projects(self):
         return [
-            "🏥 AI Health Advisor",
+            "🏥 AI-powered stethoscope",
             "🎓 Final Year Project",
             "💡 Open Source Contributions",
             "🌟 Innovation & Research"
